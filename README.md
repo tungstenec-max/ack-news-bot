@@ -2,7 +2,7 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20This%20Project-yellow)](https://buymeacoffee.com/acknewsbot)
 
-A free, locally-hosted AI news service for Meshtastic mesh networks. Users send a simple command from any node on the mesh and receive AI-summarized local and national news headlines, NOAA weather alerts, and full story details — all privately delivered with no internet-connected apps required.
+A free, locally-hosted AI news service for Meshtastic mesh networks. Users send a simple command from any node in range of the bot on the mesh and receive AI-summarized local and national news headlines, NOAA weather alerts, and full story details — all privately delivered with no internet-connected apps required just the bot online and connected to the mesh.
 
 ---
 
